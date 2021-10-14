@@ -41,8 +41,7 @@ body {
   transition: width 0.3s ease;
 }
 
-.btn,
-.log_in_btn {
+.btn {
   background-color: #fff;
   border: 0;
   cursor: pointer;
@@ -53,6 +52,9 @@ body {
   height: 50px;
   width: 50px;
   transition: transform 0.3s ease;
+}
+
+.log_in_btn {
 }
 
 .btn:focus,
